@@ -1,6 +1,13 @@
 {
-  "posts": [
-    
+  "user": [
+    {
+      "id": "deepak32145",
+      "name": "deepak choudhary",
+      "password": "Iamgreat@26",
+      "email": "deepak32145@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
   ]
-
 }

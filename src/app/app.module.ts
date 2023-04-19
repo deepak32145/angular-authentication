@@ -15,7 +15,14 @@ import { UserlistingComponent } from './userlisting/userlisting.component';
 import { UpdatepopupComponent } from './updatepopup/updatepopup.component';
 
 @NgModule({
-  declarations: [AppComponent, LoginComponent, RegisterComponent, HomeComponent, UserlistingComponent, UpdatepopupComponent],
+  declarations: [
+    AppComponent,
+    LoginComponent,
+    RegisterComponent,
+    HomeComponent,
+    UserlistingComponent,
+    UpdatepopupComponent,
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,
