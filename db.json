@@ -8,6 +8,25 @@
       "gender": "male",
       "role": "",
       "isactive": false
+    },
+    {
+      "id": "deepak32",
+      "name": "rajeev choudhary",
+      "password": "Iamgreat@26",
+      "email": "deepak@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "user",
+      "name": "User"
+    },
+    {
+      "code": "tech",
+      "name": "Technician"
     }
   ]
 }

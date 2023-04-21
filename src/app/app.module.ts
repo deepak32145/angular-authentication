@@ -13,6 +13,7 @@ import { RegisterComponent } from './register/register.component';
 import { HomeComponent } from './home/home.component';
 import { UserlistingComponent } from './userlisting/userlisting.component';
 import { UpdatepopupComponent } from './updatepopup/updatepopup.component';
+import { UpdatepopupcomponentComponent } from './updatepopupcomponent/updatepopupcomponent.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { UpdatepopupComponent } from './updatepopup/updatepopup.component';
     HomeComponent,
     UserlistingComponent,
     UpdatepopupComponent,
+    UpdatepopupcomponentComponent,
   ],
   imports: [
     BrowserModule,
